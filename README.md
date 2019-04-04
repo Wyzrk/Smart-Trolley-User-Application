@@ -30,9 +30,7 @@ A simple demo application to test the provider is available in the /app director
 
 You will need to set your credentials in NavisensIndoorLocationProviderDemoApplication and MapActivity.
 
-A sample key is provided for Mapwize. Please note that this keys can only be used for testing purposes, with very limited traffic, and cannot be used in production. Get your own key from [mapwize.io](https://www.mapwize.io). Free accounts are available.
-
-To initialize the position, simply click on the map. The move around and see the position moving.
+Get your own key from [mapwize.io](https://www.mapwize.io). Free accounts are available.
 
 ## Contribute
 
